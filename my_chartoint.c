@@ -5,6 +5,8 @@
 ** convert char to int
 */
 
+hello
+
 int chartoint(char c)
 {
     int dig = 0;
